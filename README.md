@@ -5,3 +5,5 @@ Similar to other social media, we also plan on implementing a chat page for live
 
 This project's backend has been completed at a foundational level with a temporary json as our backend, while the frontend was to be completed using HTML and CSS.
 
+## Current Update
+To research and plan how to implement a live chat page and frontpage design
